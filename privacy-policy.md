@@ -23,4 +23,4 @@ We may update this policy from time to time.
 
 8. Contact
 For any questions, contact us at:
-kairishtech2301@gmail.com
+support.kairishtech@gmail.com
